@@ -1,4 +1,4 @@
-# FTP with Pytchon
+# FTP with Python
 
 
 
